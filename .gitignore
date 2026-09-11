@@ -1,0 +1,30 @@
+# Environment & secrets
+.env
+.env.signer1
+.env.signer2
+*.env.local
+
+# Dependencies
+node_modules/
+
+# Hardhat build artifacts
+artifacts/
+cache/
+
+# Database (local runtime data, not source)
+relayer/bridge-history.db
+relayer/bridge-history.db-journal
+relayer/bridge-history.db-shm
+relayer/bridge-history.db-wal
+*.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Debug/patch backups (not for public repo)
+*.bak
+*.bak2
