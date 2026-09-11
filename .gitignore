@@ -28,3 +28,7 @@ npm-debug.log*
 # Debug/patch backups (not for public repo)
 *.bak
 *.bak2
+
+# Keep example env templates public
+!.env.example
+!**/.env.example
