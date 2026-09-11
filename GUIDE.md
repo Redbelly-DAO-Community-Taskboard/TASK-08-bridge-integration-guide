@@ -427,7 +427,6 @@ This repository's bridge shows the minimal architecture a Redbelly integration n
 
 **0xDarkSeidBull.** Solo builder, Redbelly ecosystem contributor.
 
-Also building: [LitDEX](https://litdex.test-hub.xyz) · [BetsOnBlock](https://betsonblock.test-hub.xyz)
 
 License: MIT. See [LICENSE](https://github.com/0xDarkSeidBull/daotask8/blob/main/LICENSE) in the repository.
 

@@ -416,7 +416,6 @@ This repo's bridge demonstrates the minimal architecture needed for a Redbelly i
 
 **0xDarkSeidBull**  solo builder, Redbelly ecosystem contributor.
 
-Also building: [**LitDEX**](https://litdex.test-hub.xyz) · [**BetsOnBlock**](https://betsonblock.test-hub.xyz)
 
 ---
 
